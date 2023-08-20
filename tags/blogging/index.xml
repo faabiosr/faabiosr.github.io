@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fabio Ribeiro</title>
-    <link>https://fabioribeiro.dev/</link>
-    <description>Recent content on Fabio Ribeiro</description>
+    <title>blogging on Fabio Ribeiro</title>
+    <link>https://fabioribeiro.dev/tags/blogging/</link>
+    <description>Recent content in blogging on Fabio Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2023 20:10:23 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 20:10:23 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novo blog</title>
       <link>https://fabioribeiro.dev/archive/2023/08/novo-blog/</link>
@@ -16,7 +16,6 @@
       <description>Após um longo hiato, decidi por mais uma vez tentar publicar conteúdos de desenvolvimento de software e outras coisinhas.
 Por diversas vezes tentar publicar artigos e dicas durante toda a minha carreira, mas infelizmente devido a falta de tempo (pois estava trabalhando demais) não consegui publicar nada. Em meus antigos blogs, haviam novidades sobre os eventos que eu visitada, fotos e os bate papos que eu tinha com a galera na época.</description>
     </item>
-    
     
   </channel>
 </rss>
