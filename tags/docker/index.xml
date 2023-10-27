@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Fabio Ribeiro</title>
-    <link>https://fabioribeiro.dev/posts/</link>
-    <description>Recent content in Posts on Fabio Ribeiro</description>
+    <title>docker on Fabio Ribeiro</title>
+    <link>https://fabioribeiro.dev/tags/docker/</link>
+    <description>Recent content in docker on Fabio Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distribuindo um aplicação Go sem o Docker</title>
       <link>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</link>
@@ -16,16 +16,6 @@
       <description>Quando pensamos em escalabilidade de software, invariavelmente, em alguma eventualidade nos deparamos com a necessidade de distribuir nosso software.
 A grande maioria dos artigos e tutoriais que encontramos e que falam sobre distribuição de software, acabam descrevendo sobre como distribuir usando Kubernetes, Docker Swarm e às vezes preparando o bom e velho docker-compose.yaml.
 Dependendo do tamanho da sua aplicação, às vezes não é necessário ter um cluster de Kubernetes, também em alguns casos queremos obter todo o potencial do servidor, como memória, disco e rede, evitando ter uma camada extra entre a aplicação e a máquina.</description>
-    </item>
-    
-    <item>
-      <title>Novo blog</title>
-      <link>https://fabioribeiro.dev/archive/2023/08/novo-blog/</link>
-      <pubDate>Sun, 20 Aug 2023 20:10:23 +0200</pubDate>
-      
-      <guid>https://fabioribeiro.dev/archive/2023/08/novo-blog/</guid>
-      <description>Após um longo hiato, decidi por mais uma vez tentar publicar conteúdos de desenvolvimento de software e outras coisinhas.
-Por diversas vezes tentar publicar artigos e dicas durante toda a minha carreira, mas infelizmente devido a falta de tempo (pois estava trabalhando demais) não consegui publicar nada. Em meus antigos blogs, haviam novidades sobre os eventos que eu visitada, fotos e os bate papos que eu tinha com a galera na época.</description>
     </item>
     
   </channel>

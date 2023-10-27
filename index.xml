@@ -6,7 +6,18 @@
     <description>Recent content on Fabio Ribeiro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2023 20:10:23 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distribuindo um aplicação Go sem o Docker</title>
+      <link>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</link>
+      <pubDate>Fri, 27 Oct 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</guid>
+      <description>Quando pensamos em escalabilidade de software, invariavelmente, em alguma eventualidade nos deparamos com a necessidade de distribuir nosso software.
+A grande maioria dos artigos e tutoriais que encontramos e que falam sobre distribuição de software, acabam descrevendo sobre como distribuir usando Kubernetes, Docker Swarm e às vezes preparando o bom e velho docker-compose.yaml.
+Dependendo do tamanho da sua aplicação, às vezes não é necessário ter um cluster de Kubernetes, também em alguns casos queremos obter todo o potencial do servidor, como memória, disco e rede, evitando ter uma camada extra entre a aplicação e a máquina.</description>
+    </item>
+    
     <item>
       <title>Novo blog</title>
       <link>https://fabioribeiro.dev/archive/2023/08/novo-blog/</link>

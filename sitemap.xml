@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fabioribeiro.dev/tags/blogging/</loc>
-    <lastmod>2023-08-20T20:10:23+02:00</lastmod>
+    <loc>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/docker/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/go/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/linux/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/posts/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/programming/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/</loc>
+    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/blogging/</loc>
     <lastmod>2023-08-20T20:10:23+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/archive/2023/08/novo-blog/</loc>
     <lastmod>2023-08-20T20:10:23+02:00</lastmod>
   </url><url>
-    <loc>https://fabioribeiro.dev/posts/</loc>
-    <lastmod>2023-08-20T20:10:23+02:00</lastmod>
-  </url><url>
     <loc>https://fabioribeiro.dev/tags/pt-br/</loc>
-    <lastmod>2023-08-20T20:10:23+02:00</lastmod>
-  </url><url>
-    <loc>https://fabioribeiro.dev/tags/</loc>
     <lastmod>2023-08-20T20:10:23+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/categories/</loc>
