@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>programming on Fabio Ribeiro</title>
+    <title>Programming on Fabio Ribeiro</title>
     <link>https://fabioribeiro.dev/tags/programming/</link>
-    <description>Recent content in programming on Fabio Ribeiro</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Programming on Fabio Ribeiro</description>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://fabioribeiro.dev/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate>
+    <atom:link href="https://fabioribeiro.dev/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distribuindo um aplicação Go sem o Docker</title>
       <link>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</link>
       <pubDate>Fri, 27 Oct 2023 20:00:00 +0200</pubDate>
-      
       <guid>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</guid>
-      <description>Quando pensamos em escalabilidade de software, invariavelmente, em alguma eventualidade nos deparamos com a necessidade de distribuir nosso software.
-A grande maioria dos artigos e tutoriais que encontramos e que falam sobre distribuição de software, acabam descrevendo sobre como distribuir usando Kubernetes, Docker Swarm e às vezes preparando o bom e velho docker-compose.yaml.
-Dependendo do tamanho da sua aplicação, às vezes não é necessário ter um cluster de Kubernetes, também em alguns casos queremos obter todo o potencial do servidor, como memória, disco e rede, evitando ter uma camada extra entre a aplicação e a máquina.</description>
+      <description>&lt;p&gt;Quando pensamos em escalabilidade de software, invariavelmente, em alguma eventualidade nos deparamos com a necessidade de distribuir nosso software.&lt;/p&gt;
+&lt;p&gt;A grande maioria dos artigos e tutoriais que encontramos e que falam sobre distribuição de software, acabam descrevendo sobre como distribuir usando Kubernetes, Docker Swarm e às vezes preparando o bom e velho &lt;code&gt;docker-compose.yaml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Dependendo do tamanho da sua aplicação, às vezes não é necessário ter um cluster de Kubernetes, também em alguns casos queremos obter todo o potencial do servidor, como memória, disco e rede, evitando ter uma camada extra entre a aplicação e a máquina.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

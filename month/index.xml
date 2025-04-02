@@ -4,7 +4,8 @@
     <title>Month on Fabio Ribeiro</title>
     <link>https://fabioribeiro.dev/month/</link>
     <description>Recent content in Month on Fabio Ribeiro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fabioribeiro.dev/month/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <atom:link href="https://fabioribeiro.dev/month/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
