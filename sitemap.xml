@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fabioribeiro.dev/tags/dni/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/espanha/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/archive/2024/11/espanha-altera%C3%A7%C3%A3o-de-nie-a-dni/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/nie/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/posts/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/processos/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
+    <loc>https://fabioribeiro.dev/tags/vida/</loc>
+    <lastmod>2024-11-02T21:58:00+02:00</lastmod>
+  </url><url>
     <loc>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</loc>
     <lastmod>2023-10-27T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/tags/docker/</loc>
-    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://fabioribeiro.dev/</loc>
     <lastmod>2023-10-27T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/tags/go/</loc>
@@ -17,13 +41,7 @@
     <loc>https://fabioribeiro.dev/tags/linux/</loc>
     <lastmod>2023-10-27T20:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://fabioribeiro.dev/posts/</loc>
-    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://fabioribeiro.dev/tags/programming/</loc>
-    <lastmod>2023-10-27T20:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://fabioribeiro.dev/tags/</loc>
     <lastmod>2023-10-27T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://fabioribeiro.dev/tags/blogging/</loc>

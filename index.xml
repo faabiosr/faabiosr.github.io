@@ -6,8 +6,18 @@
     <description>Recent content on Fabio Ribeiro</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Oct 2023 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 21:58:00 +0200</lastBuildDate>
     <atom:link href="https://fabioribeiro.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Espanha - Alteração de NIE a DNI</title>
+      <link>https://fabioribeiro.dev/archive/2024/11/espanha-altera%C3%A7%C3%A3o-de-nie-a-dni/</link>
+      <pubDate>Sat, 02 Nov 2024 21:58:00 +0200</pubDate>
+      <guid>https://fabioribeiro.dev/archive/2024/11/espanha-altera%C3%A7%C3%A3o-de-nie-a-dni/</guid>
+      <description>&lt;p&gt;Uma vez obtida a nacionalidade espanhola, é importante que toda a sua vida documental na Espanha seja alterada. Esse processo pode ser lento em alguns casos, devido a quantidade de informações a serem alteras, agendamentos em orgãos do governo, e comunição das alterações.&lt;/p&gt;
+&lt;p&gt;Nesse pequeno/longo documento, tentarei resumir os passos que eu e minha esposa enfrentamos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Antes de iniciar qualquer dos processo abaixo, tenha em mãos a aplicação Cl@ave instalada, pois vários desse processos necessitam da Cl@ve, vale resaltar que alguns deles precisam do certificado digital. Eu recomendo que você faça isso o quanto antes. Eu mesmo fiz, a &lt;a href=&#34;https://clave.gob.es/clave_Home/registro/Como-puedo-registrarme.html&#34;&gt;Cl@ve PIN&lt;/a&gt;, &lt;a href=&#34;https://clave.gob.es/clave_Home/Clave-Permanente/queEs.html&#34;&gt;Cl@ve Permanente&lt;/a&gt; e o &lt;a href=&#34;https://www.sede.fnmt.gob.es/certificados/persona-fisica&#34;&gt;certificado digital&lt;/a&gt;. Evite dores de cabeça durante esse processo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Distribuindo um aplicação Go sem o Docker</title>
       <link>https://fabioribeiro.dev/archive/2023/10/distribuindo-um-aplica%C3%A7%C3%A3o-go-sem-o-docker/</link>
